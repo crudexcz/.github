@@ -3,4 +3,4 @@ Prosim, pokud delate nejaky upravy do nejake repo, pullnete si nejdriv aktualni 
 Pokud delate nejakou repo, prosim at je privatni.
 -pliskaj
 
-# prosim commitujte vsechen kod Díky (hlavne plyska)- Martin
+# Prosim commitujte vsechen kod Díky (hlavne plyska)- Martin
